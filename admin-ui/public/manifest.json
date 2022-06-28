@@ -1,6 +1,6 @@
 {
-  "short_name": "Sample app",
-  "name": "Sample app",
+  "short_name": "WebAppFullStackTemplate",
+  "name": "WebAppFullStackTemplate",
   "icons": [
     {
       "src": "favicon.ico",
